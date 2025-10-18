@@ -45,19 +45,23 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
+![IMG-20251018-WA0013](https://github.com/user-attachments/assets/d8c4e8bc-b619-4f0d-b248-e5fffae8aeaf)
 
 
 b.  KCL:
+![IMG-20251018-WA0015](https://github.com/user-attachments/assets/68ffa835-7423-4df7-b4ad-0ec4a510ab07)
  
 
 Calculation:
 
 a.   KVL:
  
+![IMG-20251018-WA0018](https://github.com/user-attachments/assets/2ff438e8-c7c4-437c-920e-8e53f420b9f2)
 
 
 b.  KCL:
 
+![IMG-20251018-WA0019](https://github.com/user-attachments/assets/3afdbf7a-2b02-46b1-a5b8-9dbb6194b048)
 
 
 
@@ -65,12 +69,14 @@ Tabulation:
 
 a.   KVL:
  
+![IMG-20251018-WA0017](https://github.com/user-attachments/assets/6d3854af-6035-4357-93ec-0ebe1be8c118)
 
 
 b.  KCL:
+![IMG-20251018-WA0018](https://github.com/user-attachments/assets/85d6f198-b220-46fe-be6a-832dae477af5)
 
 
 
-RESULT:
+RESULT:Thus the kirchoff's voltage law and kirchoff's current law has been verified succesfully
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
